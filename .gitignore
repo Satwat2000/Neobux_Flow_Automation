@@ -1,4 +1,6 @@
-.vscode
 __pycache__
 debug.log
 Gui files
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
